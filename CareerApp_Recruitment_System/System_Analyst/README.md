@@ -1,93 +1,94 @@
-📁 System Analyst – CareerApp Recruitment System
+📁 System Analysis – CareerApp Recruitment System
 
-Folder ini berisi seluruh dokumen System Analyst yang berfungsi untuk menggambarkan rancangan sistem, alur proses, dan struktur data pada CareerApp, sebuah sistem informasi rekrutmen berbasis web.
-Dokumen-dokumen ini membantu memastikan sistem dibangun sesuai kebutuhan bisnis dan dapat diimplementasikan dengan efektif oleh tim developer.
+Folder ini berisi seluruh dokumen System Analyst yang menggambarkan rancangan sistem, alur proses, serta struktur teknis dari sistem CareerApp, yaitu sistem informasi rekrutmen berbasis web.
 
-📊 1. Activity Diagram (Super Admin)
+Dokumen-dokumen ini digunakan untuk memastikan sistem dapat diimplementasikan dengan benar, sesuai kebutuhan pengguna dan tujuan bisnis.
 
-Activity diagram menggambarkan alur aktivitas dan logika proses untuk setiap fitur utama yang digunakan oleh Super Admin dalam sistem CareerApp.
+🧩 1. Activity Diagram (Super Admin)
 
-Daftar activity diagram:
+Activity diagram menjelaskan alur proses dan logika aktivitas yang dilakukan oleh Super Admin dalam sistem CareerApp.
+
+Daftar dokumen:
 
 CV Screening
-🔗 File: Activity Diagram_Super Admin_CV Screening.png
+File: Activity Diagram_Super Admin_CV Screening.png
 
 Interview HR
-🔗 File: Activity Diagram_Super Admin_Interview HR.png
+File: Activity Diagram_Super Admin_Interview HR.png
 
 Interview User
-🔗 File: Activity Diagram_Super Admin_Interview User.png
+File: Activity Diagram_Super Admin_Interview User.png
 
-Login Super Admin
-🔗 File: Activity Diagram_Super Admin_Login.jpeg
+Login
+File: Activity Diagram_Super Admin_Login.jpeg
 
 Offering
-🔗 File: Activity Diagram_Super Admin_Offering.png
+File: Activity Diagram_Super Admin_Offering.png
 
 Permission Management
-🔗 File: Activity Diagram_Super Admin_Permission Management.png
+File: Activity Diagram_Super Admin_Permission Management.png
 
 Psikotest
-🔗 File: Activity Diagram_Super Admin_Psikotest.png
+File: Activity Diagram_Super Admin_Psikotest.png
 
 Requirement Reporting
-🔗 File: Activity Diagram_Super Admin_Requirement Reporting.png
+File: Activity Diagram_Super Admin_Requirement Reporting.png
 
 Role Management
-🔗 File: Activity Diagram_Super Admin_Role Management.png
+File: Activity Diagram_Super Admin_Role Management.png
 
 User Management
-🔗 File: Activity Diagram_Super Admin_User Management.png
+File: Activity Diagram_Super Admin_User Management.png
 
-🧩 2. System Architecture (Arsitektur Sistem)
+🏗️ 2. System Architecture
 
-Diagram ini menggambarkan arsitektur high-level CareerApp, mulai dari komponen frontend, backend, database, hingga alur komunikasi antar layanan.
+Diagram arsitektur menjelaskan struktur high-level sistem CareerApp, termasuk komponen frontend, backend, API, dan database.
 
-🔗 File: Arsitektur Sistem_CareerApp.png
+File: Arsitektur Sistem_CareerApp.png
 
 🗂️ 3. Entity Relationship Diagram (ERD)
 
-ERD CareerApp digunakan untuk memodelkan struktur database, relasi antartabel, serta atribut utama yang digunakan dalam proses rekrutmen.
+ERD digunakan untuk memodelkan struktur database, hubungan antartabel, serta atribut utama dalam proses rekrutmen.
 
-🔗 File: ERD_CareerApp.png
+File: ERD_CareerApp.png
 
-🔄 4. Flowchart (Admin, Pelamar, Staff, Super Admin)
+🔄 4. Flowchart Sistem
 
-Flowchart menggambarkan alur langkah demi langkah untuk setiap tipe pengguna dalam sistem CareerApp. Diagram ini membantu tim memahami proses operasional dan alur keputusan yang terjadi.
+Flowchart menjelaskan alur langkah-langkah operasional berdasarkan peran pengguna dalam sistem CareerApp.
 
 Daftar flowchart:
 
 Flowchart Admin
-🔗 File: Flowchart_Admin.png
+File: Flowchart_Admin.png
 
 Flowchart Pelamar
-🔗 File: Flowchart_Pelamar.png
+File: Flowchart_Pelamar.png
 
 Flowchart Staff
-🔗 File: Flowchart_Staff.png
+File: Flowchart_Staff.png
 
 Flowchart Super Admin
-🔗 File: Flowchart_Super Admin.png
+File: Flowchart_Super Admin.png
 
 📝 5. User Acceptance Test (UAT)
 
-Dokumen UAT berisi skenario pengujian untuk memastikan seluruh fitur berjalan sesuai kebutuhan stakeholder dan standar sistem yang telah didefinisikan.
+Dokumen UAT berisi skenario pengujian sistem untuk memastikan seluruh fitur berjalan sesuai kebutuhan stakeholder.
 
-🔗 File: UAT_CareerApp.pdf
+File: UAT_CareerApp.pdf
 
 📌 Tujuan Folder Ini
 
-Dokumen-dokumen dalam folder System Analyst digunakan untuk:
+Dokumen pada folder System Analyst digunakan untuk:
 
-Menyediakan panduan bagi developer dalam proses implementasi sistem.
+Menjadi pedoman implementasi sistem bagi developer
 
-Memastikan setiap modul memiliki alur dan logika yang jelas.
+Menjelaskan alur proses kerja sistem secara visual
 
-Menggambarkan struktur database serta arsitektur sistem secara lengkap.
+Memastikan rancangan sistem konsisten dan terstruktur
 
-Mendukung proses QA dalam melakukan pengujian fitur.
+Mendukung QA dalam proses pengujian
 
-Membantu stakeholder memahami alur kerja sistem dari perspektif teknis.
+Memberikan pemahaman teknis kepada stakeholder
 
 ✨ Penyusun
 
